@@ -18,7 +18,7 @@
 
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjaehani)](https://solved.ac/jjaehani)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yongsehee)](https://solved.ac/yongsehee)
 
 </div>
 
